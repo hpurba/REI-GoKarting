@@ -1,6 +1,5 @@
 # See the README for how to run the code
 
-
 import RPi.GPIO as GPIO
 import time
 
